@@ -9,7 +9,7 @@
             "value": "saston2003jsonsacc1"
         },
         "accountType": {
-          "value": "Standard_LRS"
+          "value": "Standard_GRS"
         },
         "kind": {
             "value": "StorageV2"
